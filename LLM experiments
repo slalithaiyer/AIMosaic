@@ -1,6 +1,33 @@
-llm-forecasting/README.md
 # 📈 LLM for Forecasting
 
-Exploring how Large Language Models can be adapted for time series forecasting and business insight generation.
+This project explores how Large Language Models (LLMs) can be adapted for time series forecasting and business insight generation.
 
-More content coming soon!
+## 🔍 Highlights
+
+- Transformer-based forecasting workflows
+- Prompt engineering for scenario-based predictions
+- Visualizations and narrative generation
+- Use cases: service desk analytics, demand prediction, anomaly detection
+
+## 📁 Folder Structure
+
+- `notebooks/`: Jupyter notebooks for training and inference
+- `data/`: Sample time series datasets
+- `models/`: Saved model checkpoints
+- `results/`: Forecast outputs and visualizations
+- `assets/`: Diagrams and screenshots
+
+## 🛠️ Tools Used
+
+- Hugging Face Transformers
+- PyTorch / TensorFlow
+- Pandas, Scikit-learn
+- Matplotlib / Plotly
+
+## 🔗 Explore More
+
+- [AIMosaic Home](../README.md)
+
+---
+
+> “Forecasting isn’t just about numbers — it’s about telling the story of what’s next.”
