@@ -1,0 +1,26 @@
+# ⚙️ AIOps & LLMOps
+
+This section of AIMosaic explores how AI can be operationalized at scale — from traditional AIOps (monitoring, automation, anomaly detection) to the emerging field of LLMOps (prompt management, fine-tuning, and observability for large language models).
+
+## 🔍 What's Inside
+
+- **LLMOps**: Tools and workflows for managing LLMs in production
+- **AIOps Core**: Infrastructure monitoring, alerting, and intelligent automation
+- **Use Cases**: Service desk analytics, incident triage, model drift detection
+
+## 🛠️ Tools & Platforms
+
+- MLflow, Weights & Biases
+- LangChain, PromptLayer
+- Grafana, Prometheus, ELK Stack
+- Azure Monitor, AWS CloudWatch
+
+## 📁 Subfolders
+
+- `llmops/`: Prompt pipelines, fine-tuning strategies, LLM observability
+- `aiops-core/`: Traditional AIOps workflows and automation scripts
+- `assets/`: Diagrams and architecture visuals
+
+---
+
+> “AIOps is where models meet reality — and LLMOps is where they learn to adapt.”
