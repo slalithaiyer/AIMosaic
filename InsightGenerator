@@ -1,0 +1,46 @@
+# 📊 AI for Business Intelligence
+
+**Bringing AI into the heart of business performance, anomaly detection, and executive insight generation.**
+
+This project explores how AI — including machine learning and large language models — can enhance Business Intelligence (BI) by detecting anomalies, monitoring KPIs, and generating narrative insights that drive better decisions.
+
+## 🔍 Focus Areas
+
+- **Anomaly Detection**  
+  Identify outliers in KPIs, service desk volumes, and operational metrics using ML and LLMs.
+
+- **Narrative BI**  
+  Use LLMs to generate executive summaries and contextual insights from dashboards.
+
+- **Root Cause Analysis**  
+  Correlate anomalies with upstream events or logs using AI-powered reasoning.
+
+- **KPI Monitoring & Alerting**  
+  Define dynamic thresholds and trigger alerts based on learned patterns.
+
+- **Dashboard Enhancement**  
+  Embed AI-generated insights into BI platforms like Power BI and Tableau.
+
+- **Scenario Simulation**  
+  Use generative models to simulate “what-if” business scenarios.
+
+- **Data Quality & Drift Detection**  
+  Monitor BI pipelines for schema changes, missing values, or concept drift.
+
+## 🛠️ Tools & Techniques
+
+- Anomaly Detection: Isolation Forest, Autoencoders, LLM-based contextual alerts
+- BI Platforms: Power BI, Tableau, Grafana
+- Libraries: Pandas, Scikit-learn, Matplotlib, Hugging Face Transformers
+
+## 📁 Folder Structure
+
+- `anomaly-detection/`: ML models and alerting workflows
+- `business-metrics/`: KPI monitoring and visualizations
+- `assets/`: Diagrams and screenshots
+
+## 🔗 Explore More
+
+- [AIMosaic Home](../README.md)
+
+> “AI doesn’t just analyze metrics — it tells the story behind them.”
