@@ -1,2 +1,17 @@
 # AIMosaic
 Hands-on projects, AI/ML explorations, and open-source tools
+# 🧠 AIMosaic
+
+**Curated by Lalitha — AI Enabler | Data Strategist | Narrative Designer**
+
+Welcome to **AIMosaic**, a living portfolio where AI/ML meets human insight. This space reflects my journey across data science, group facilitation, and the social power of storytelling.
+
+## 🔍 What You'll Find Here
+
+- **🧪 AI & Data Projects**  
+  LLM experiments, Hugging Face workflows, forecasting models, and open-source explorations.
+
+- **🧰 Facilitation Toolkit**  
+  Printable trackers, thematic reading guides, and creative prompts forlearning groups.
+
+A mosaic is not just a collection of pieces — it’s a story told in fragments. This is mine.
