@@ -9,7 +9,7 @@ Welcome to **AIMosaic**, a living portfolio where AI/ML meets human insight. Thi
 ## 🔍 What You'll Find Here
 
 - **🧪 AI & Data Projects**  
-  LLM experiments, Hugging Face workflows, forecasting models, and open-source explorations.
+  Experiments, Workflows, Learnings and open-source explorations.
 
 - **🧰 Facilitation Toolkit**  
   Printable trackers, thematic reading guides, and creative prompts forlearning groups.
