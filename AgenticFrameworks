@@ -1,0 +1,52 @@
+# 🤖 Agentic Frameworks in AI
+
+**Designing autonomous, goal-driven AI systems using LLMs, tools, and multi-agent orchestration.**
+
+This project explores agentic frameworks — architectures that enable AI agents to perceive, reason, act, and reflect. These frameworks are foundational for building intelligent copilots, service desk agents, and multi-agent simulations.
+
+## 🔍 Focus Areas
+
+- **LLMs as Reasoning Engines**  
+  Use transformers to interpret tasks, generate plans, and adapt behavior.
+
+- **Tool Integration**  
+  Equip agents with APIs, search, and code execution capabilities.
+
+- **Multi-Agent Collaboration**  
+  Delegate tasks across specialized agents with memory and coordination.
+
+- **Workflow Orchestration**  
+  Build DAGs and event-driven flows using LangGraph, AutoGen, and CrewAI.
+
+- **Reflection & Memory**  
+  Enable agents to learn from outcomes and improve over time.
+
+## 🧠 Frameworks Explored
+
+| Framework     | Highlights                                  |
+|---------------|---------------------------------------------|
+| **LangGraph** | DAG-based orchestration, multi-agent flows  |
+| **CrewAI**    | Role-based agents, task delegation          |
+| **AutoGen**   | Multi-agent collaboration, tool calling     |
+
+## 🛠️ Tools & Libraries
+
+- LangChain, LangGraph, CrewAI, AutoGen
+- Hugging Face Transformers
+- Python, FastAPI, Streamlit
+
+## 📁 Folder Structure
+
+- `langgraph/`: DAG-based workflows and examples
+- `crewai/`: Role-based agent setups
+- `autogen/`: Multi-agent demos and coordination strategies
+- `assets/`: Diagrams and screenshots
+
+## 🔗 Explore More
+
+- [AIMosaic Home](../README.md)
+- [Connect on LinkedIn](https://www.linkedin.com/in/sriram)
+
+---
+
+> “Agentic frameworks turn LLMs into collaborators — not just responders.”
