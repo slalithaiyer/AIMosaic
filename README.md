@@ -11,7 +11,4 @@ Welcome to **AIMosaic**, a living portfolio where AI/ML meets human insight. Thi
 - **🧪 AI & Data Projects**  
   Experiments, Workflows, Learnings and open-source explorations.
 
-- **🧰 Facilitation Toolkit**  
-  Printable trackers, thematic reading guides, and creative prompts forlearning groups.
-
 A mosaic is not just a collection of pieces — it’s a story told in fragments. This is mine.
